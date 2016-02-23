@@ -1,0 +1,15 @@
+CSCO Cisco Systems, Inc.
+BAC Bank of America Corporation
+FB Facebook, Inc.
+MSFT Microsoft Corporation
+F Ford Motor Company Common Stock
+SIRI Sirius XM Radio Inc.
+ZNGA Zynga Inc.
+GM General Motors Company Common Stock
+MU Micron Technology, Inc.
+JCP J.C. Penney Company, Inc.
+PFE Pfizer, Inc. Common Stock
+GE General Electric Company Common Stock
+ODP Office Depot, Inc. Common Stock
+HPQ Hewlett-Packard Company Common Stock
+ORCL Oracle Corporation Common Stock
